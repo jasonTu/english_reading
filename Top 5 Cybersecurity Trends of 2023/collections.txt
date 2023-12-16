@@ -1,3 +1,27 @@
 CISO: cyber information security officer
 crackdowns: 压迫，打击
 international sanctions: 国际制裁
+looming: adj.（不希望或不愉快的事情）迫近的，逼近的
+cryptocurrency: n.（公共网络的，而非政府发行的）加密电子货币（使用加密法确保付款安全支付及收取）
+adversary : 敌手
+extortion: 勒索
+Data Monetization: 数字货币化，数据货币化
+accelerate： 加速
+crippling ： 使严重受损的，受害的
+fixate: 痴迷，依恋
+cognizant ： adj.知道的，意识到的，了解的；审理的
+prong：n.尖齿；方向；（俚语）阴茎；耙子；（多种工具的）尖头；（作战）分支
+security posture： 安全态势
+remediate ： v.（尤指对环境破坏的）矫正；补救；治疗
+SOC： security operations center 
+anomaly : n.异常事物，反常现象；近点角，近点距离
+siphon off :虹吸出去,挪用
+propagate ：散播，传播
+ultra-clear：特别清楚的
+essence：本质，精华，要素
+counsel：n.忠告，建议；辩护律师；<古>咨询，磋商
+reign： n.（君主）在位时期，统治时期；领导期，任期；支配期，极盛期；（运动员或运动队）持有指明荣誉头衔的时期
+ramp up： 迅速增加：迅速增加到一个新的值
+landscape ：n.（陆上，尤指乡村的）风景，景色；形势，情形；（陆上或乡村）风景画；横向打印格式
+notable: adj.显要的，值得注意的；非常成功的，令人尊敬的
+discern: v.（艰难地或努力地）看出，觉察出；了解，认识
